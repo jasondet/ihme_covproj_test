@@ -8,6 +8,11 @@ Note: if the location name has a space, enclose the name in quotes.
 Example: python draw_proj_vs_time.py "New York"
 ```
 
+Requirements:
+* linux-like terminal environment (works on my Mac)
+* python3 with numpy and matplotlib
+* imagemagick
+
 Example output gif:
 
 ![US gif](US.gif)
